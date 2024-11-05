@@ -28,4 +28,3 @@ criaCartao(
     'É o conjunto de traços observáveis ou que podem ser mensurados de um indivíduo.'
 )
 
-c
