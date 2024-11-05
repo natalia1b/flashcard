@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Biologia',
+    'Imagine que você realizou um exame de sangue, nele você percebeu que houve uma grande queda no número de plaquetas. Essa baixa nos níveis desse elemento figurado pode levar você a um quadro de:?',
+    'Hemorragia.'
 )
 
 criaCartao(
