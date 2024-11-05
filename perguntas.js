@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'O período Paleolítico também é chamado de?',
+    'Idade da pedra'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'A região da Groenlândia pertence a qual país?',
+    'Dinamarca'
 )
 
 criaCartao(
