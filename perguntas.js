@@ -1,30 +1,36 @@
 criaCartao(
-    'História',
-    'O período Paleolítico também é chamado de?',
-    'Idade da pedra'
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
 )
 
 criaCartao(
     'Geografia',
-    'A região da Groenlândia pertence a qual país?',
-    'Dinamarca'
+    'Qual a capital da França?',
+    'A capital da França é Paris'
+)
+
+criaCartao(
+    'Programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
 
 criaCartao(
     'Biologia',
-    'Imagine que você realizou um exame de sangue, nele você percebeu que houve uma grande queda no número de plaquetas. Essa baixa nos níveis desse elemento figurado pode levar você a um quadro de:?',
-    'Hemorragia.'
+    'Quem é considerado o pai da genética?',
+    'Gregor Mendel'
 )
 
 criaCartao(
-    'Biologia',
-    'De acordo com as leis de Mendel, um indivíduo com genótipo Aa produz gametas?',
-    'A e a'
-)
-
-criaCartao(
-    'Biologia',
-    'O que é fenótipo?',
-    'É o conjunto de traços observáveis ou que podem ser mensurados de um indivíduo.'
+    'Matemática',
+    'Qual é o valor de Pi?',
+    '3,14'
 )
 
