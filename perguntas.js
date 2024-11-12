@@ -1,13 +1,13 @@
 criaCartao(
     'Biologia',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'O que é codominância no sistema ABO?',
+    'É quando os alelos A e B são expressos juntos,formando o tipo sanguíneo AB.'
 )
 
 criaCartao(
     'Biologia' ,
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Como uma mutação pode causar uma doença ?',
+    'Pode alterar o gene, fazendo com que ele produza uma proteína defeituosa ou ausente.'
 )
 
 criaCartao(
