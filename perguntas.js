@@ -19,7 +19,7 @@ criaCartao(
 criaCartao(
     'Biologia',
     'Porque o tipo O é doador universal ?',
-    'Porque ele não tem antígenos, evitando reações 
+    'Porque ele não tem antígenos, evitando reações '
 )
 
 criaCartao(
