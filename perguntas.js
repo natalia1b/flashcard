@@ -12,14 +12,14 @@ criaCartao(
 
 criaCartao(
     'Biologia' ,
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Porque que doenças ligadas ao cromossomo X são mais comuns em homens ?',
+    'Homens têm apenas um cromossomo X, então a mutação se manifesta mais facilmente.'
 )
 
 criaCartao(
     'Biologia',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Porque o tipo O é doador universal ?',
+    'Porque ele não tem antígenos, evitando reações 
 )
 
 criaCartao(
