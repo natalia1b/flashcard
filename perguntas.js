@@ -19,18 +19,18 @@ criaCartao(
 criaCartao(
     'Biologia',
     'Porque o tipo O é doador universal ?',
-    'Porque ele não tem antígenos, evitando reações '
+    'Porque ele não tem antígenos, evitando reações imunológicas no receptor.'
 )
 
 criaCartao(
     'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    'O que são características poligênicas?',
+    'São características controladas por vários genes, como a altura e a cor de pele.'
 )
 
 criaCartao(
     'Biologia',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Como as mutações aumentam a diversidade genética?',
+    'Elas criam novas variações nos genes, aumentando a variedade de características.'
 )
 
