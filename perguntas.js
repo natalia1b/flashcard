@@ -34,3 +34,15 @@ criaCartao(
     'Elas criam novas variações nos genes, aumentando a variedade de características.'
 )
 
+criaCartao(
+    'Biologia',
+    'Qual é a importância do aconselhamento genético?',
+    'Ajudar famílias a entender o risco de doenças hereditárias e suas possíveis prevenções.'
+)
+
+
+criaCartao(
+    'Biologia',
+    'Qual é a chance de um casal AB e O ter um filho tipo A?',
+    'Elas criam novas variações nos genes, aumentando a variedade de características.'
+)
